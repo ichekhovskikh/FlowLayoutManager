@@ -1,0 +1,3 @@
+include ':flowlayoutmanager'
+include ':example'
+rootProject.name = "FlowLayoutManager"
